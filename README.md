@@ -7,11 +7,9 @@ about 16 million people.
 This repo contains extra Sinhala Fonts For Slackware Linux
 
 The fonts available are
+
 1. Amma
 2. Atlas-chirani
-3. Fontoshan
-4. Gemunu
-5. Kaputa
-6. Maname
-7. Mulakuru
-8. Moonface
+3. Gemunu
+4. Kaputa
+5. Maname
